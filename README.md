@@ -31,16 +31,6 @@ JPEG, PNG, BMP, TIFF, GIF, and other OpenCV-supported formats
 - **OpenCV** 4.0+
 - **CMake** 3.16+
 
-## Usage
-
-Open Image: File → Open or drag-and-drop /n
-Browse Directory: Navigate through images using next/previous buttons
-Edit: Use sliders and tools to adjust brightness, contrast, saturation, blur
-Rotate: Click the rotate button for 90° clockwise rotation
-Crop: Toggle crop mode, select area with mouse, press crop
-Undo/Redo: Revert or redo any edits
-Save: Save edited images back to disk
-
 ## How to Build & Run
 
 ```bash
